@@ -1,14 +1,8 @@
-“Home is behind, the world ahead,
-and there are many paths to tread
-through shadows to the edge of night,
-until the stars are all alight.”
-
 ## Hello All! 🌎🌍🌏 
-You can find projects I have experimented on.
+I am a Software Engineers based in Portland, OR
 
-## What I'm up to
-- finishing my time at Epicodus and learning react
-- Looking forward to the internship
+- I am currently learning React and react-three-fiber
+- I interested in front-end development and utilizing 3D graphics
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
