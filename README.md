@@ -15,6 +15,3 @@ I am a Software Engineers based in Portland, OR
 <hr />
 
 ![Kaila's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaila-spraguemcrae&theme=calm&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaila-spraguemcrae&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
