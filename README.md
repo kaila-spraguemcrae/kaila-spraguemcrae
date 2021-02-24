@@ -1,5 +1,5 @@
 ## Hello All! 🌎🌍🌏 
-I am a Software Engineers based in Portland, OR
+I am a Software Engineer based in Portland, OR
 
 - I am currently learning React and react-three-fiber
 - I interested in front-end development and utilizing 3D graphics
